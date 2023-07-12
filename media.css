@@ -265,7 +265,7 @@
         scroll-snap-align: center;
     }
 
-    .pricing__card:hover .card__order__btn{
+    .pricing__card:hover .card__order__btn {
         border: 1px solid transparent;
     }
 
